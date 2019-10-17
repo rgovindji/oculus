@@ -14,7 +14,7 @@ description: A temporary site
 #url: "https://example.com"
 
 # baseurl should be an empty string
-baseurl: "/oculus"
+baseurl: /oculus
 
 # --- Navigation bar options --- #
 
